@@ -35,6 +35,7 @@
 
 ##### Software used for development
 - Game Engine - Unity URP 2020.3 LTS with Addons: Adventure Creator, Love/Hate and DreamOS
+- Source Control - Plastic SCM
 - Scripting - Visual Studio Community, Notepad++ 
 - 3D Modelling - Blender and 3DS Max
 - Post Production & Image Editing - Photoshop, Lightroom, Stable Diffusion
